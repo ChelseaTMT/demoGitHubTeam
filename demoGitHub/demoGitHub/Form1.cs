@@ -26,5 +26,10 @@ namespace demoGitHub
         {
             MessageBox.Show("Button2");
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Button3");
+        }
     }
 }
